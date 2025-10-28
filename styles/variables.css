@@ -1,0 +1,22 @@
+:root {
+    --color-dark: #000000;
+    --color-dark-alternate: #131619;
+    --color-light: #ffffff;
+    --color-dark-gray: #404040;
+    --color-light-gray: #C4C4C4;
+
+    --border-radius: 30px;
+    --border: 1px solid var(--color-light);
+
+    --font-family-base: "Montserrat", sans-serif;
+    --font-weight-base: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 600;
+    --input-height: 54px;
+
+    --transition-duration: 0.2s;
+
+    --header-height: 90px;
+
+
+}

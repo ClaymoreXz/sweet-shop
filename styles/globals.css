@@ -1,0 +1,25 @@
+a,
+button,
+label,
+input,
+textarea,
+select,
+svg * {
+    transition-duration: var(--transition-duration);
+}
+
+body {
+    font-weight: var(--font-weight-base);
+    font-family: var(--font-family-base);
+    background-color: rgb(255, 255, 255);
+}
+
+button {
+    background-color: var(--color-white);
+}
+
+
+:focus-visible,
+a:focus-visible {
+    outline: auto;
+}
