@@ -4,6 +4,7 @@
     --color-light: #ffffff;
     --color-dark-gray: #404040;
     --color-light-gray: #C4C4C4;
+    --color-basic: #2e363e;
 
     --border-radius: 30px;
     --border: 1px solid var(--color-light);
@@ -12,6 +13,7 @@
     --font-weight-base: 400;
     --font-weight-medium: 500;
     --font-weight-bold: 600;
+    --font-weight-verybold: 700;
     --input-height: 54px;
 
     --transition-duration: 0.2s;
